@@ -59,7 +59,7 @@
 3. GitHubのProtoOut生用のリポジトリへ招待します（GitHubからのINVITEメールを受領ください）
 4.  QiitaのProtoOut Organizationに招待します(Qiitaからメールが届きます)
 
-## 8,9,10について
+## 9,10について
 
 こちらは、GitHubの　ProtoOut専用のリポジトリにて説明いたしますので、そちらでご確認ください。
 準備完了まで後少しです！<br>
