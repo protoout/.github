@@ -10,7 +10,7 @@
 >  [Discord](https://discord.com/)
 
 - 主に授業時間外でのコミュニケーション（講師への質問と回答・発信記事の共有など）に利用します。
-- Discord は、アプリのインストールをしなくてもブラウザから接続可能ですが通知がこないのでアプリのインストールが難しい場合は **スマホに APP を入れて** おきましょう。
+- Discord は、アプリのインストールをしなくてもブラウザから接続可能ですが通知がこないのでアプリのインストールが難しい場合は **スマホにアプリを入れて** おきましょう。
   - [Discord \- 話そう、チャットしよう、集まろう を App Store で](https://apps.apple.com/jp/app/discord/id985746746?ign-mpt=uo%3D4)
   - [Discord \- 友達と話そう、ビデオチャットしよう、集まろう \- Google Play のアプリ](https://play.google.com/store/apps/details?id=com.discord)
 
