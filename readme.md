@@ -90,4 +90,4 @@ GitHubの招待があり次第STEP4に進みましょう。
 
 > https://github.com/protoout/po-common/tree/main/docs/preparations
 
-こちらの資料の指示に従って準備を進めて下さい。
+こちらの資料の指示に従って準備の続きを進めて下さい。
