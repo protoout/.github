@@ -75,13 +75,13 @@ Googleフォーム内で案内があります。
 
 GitHubの招待があり次第STEP4に進みましょう。
 
-1. Discordの授業部屋に招待します（重要）
+- Discordの授業部屋に招待します（重要）
   - 今後のお知らせは全てDiscord上で行いますので必ずルームに入るようにしてください。
-2. **GitHubのリポジトリへ招待します（重要）**
+- **GitHubのリポジトリへ招待します（重要）**
   - GitHubからのINVITEメールを受領ください
-3.  QiitaのプロトアウトOrganizationに招待します。
+- QiitaのプロトアウトOrganizationに招待します。
   - Qiitaからメールが届きます
-4. 頂いたGmailへ受講生用のGoogle Drive（授業資料などが格納されていきます）に招待します
+- 頂いたGmailへ受講生用のGoogle Drive（授業資料などが格納されていきます）に招待します
   - GoogleからのINVITEメールを受領ください
 
 ## STEP4. GitHubの資料を確認
