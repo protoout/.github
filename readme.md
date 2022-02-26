@@ -71,14 +71,14 @@ Googleフォーム内で案内があります。
 
 ## STEP3. 送信後
 
-1. Discordの授業部屋に招待します(連絡のつくメールにお送りします)
-	- 今後のお知らせは全てDiscord上で行いますので必ずルームに入るようにしてください。
-2. 頂いたGmailへ受講生用のGoogle Drive（授業資料などが格納されていきます）に招待します
-  - GoogleからのINVITEメールを受領ください
-3. GitHubのリポジトリへ招待します
+1. Discordの授業部屋に招待します（重要）
+  - 今後のお知らせは全てDiscord上で行いますので必ずルームに入るようにしてください。
+2. GitHubのリポジトリへ招待します（重要）
   - GitHubからのINVITEメールを受領ください
-4.  QiitaのプロトアウトOrganizationに招待します
+3.  QiitaのプロトアウトOrganizationに招待します。
   - Qiitaからメールが届きます
+4. 頂いたGmailへ受講生用のGoogle Drive（授業資料などが格納されていきます）に招待します
+  - GoogleからのINVITEメールを受領ください
 
 ## STEP4. GitHubの資料を確認
 
