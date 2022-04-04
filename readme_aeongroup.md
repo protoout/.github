@@ -76,6 +76,7 @@ Teamsに参加後のお知らせは全てTeams上で行いますので必ずル�
 
 先ほどの手順でGitHubにアクセスが出来るようになると、以下の資料が閲覧できるようになります。 
 
-> https://github.com/protoout/po-common/tree/main/docs/preparations
+> https://github.com/protoout/po-common/blob/main/docs/aeongroup_preparations.md
+
 
 こちらの資料の指示に従って**準備の続き**を進めて下さい。
