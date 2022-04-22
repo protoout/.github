@@ -52,7 +52,7 @@
 
 ## STEP2. Googleフォームの指示に従って進めて下さい。
 
-> [プロトアウトスタジオ受講生情報入力フォーム](https://forms.gle/jne6RLiyNkGmwmmG6)
+> [プロトアウトスタジオ受講生情報入力フォーム](https://forms.gle/MKXDUd4QRPrSVQuAA)
 
 ### 2-1. STEP1のアカウント情報を送信
 
