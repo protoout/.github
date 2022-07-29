@@ -15,7 +15,7 @@
 
 ### 1-2. GitHubのアカウント用意
 
-- [Githubアカウントの作成方法（2021年7月時点） \- Qiita](https://qiita.com/banboo/items/37b5cbee7dd86a9991ee)
+- [Githubアカウントの作成方法](https://zenn.dev/protoout/articles/50-howto-github-setup)
   - 主に授業で扱う教材をご覧いただくために使用します。
   - ユーザー名（アカウント）は表示名に相当します、本名でなくても大丈夫ですが認識されやすい名前にしましょう。
   - すでにお持ちの場合は、新たに作成の必要はございませんのでお持ちのアカウントをお知らせください。
